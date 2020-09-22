@@ -1,0 +1,8 @@
+public class FileUpload {
+    private String fileName;
+    private Date uploadDate;
+    private String uploadPath;
+    public static void mian(String args[]) {
+        System.out.println("asd");
+    }
+}
